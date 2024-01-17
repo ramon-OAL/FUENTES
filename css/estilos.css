@@ -1,0 +1,14 @@
+/* latin */
+@font-face {
+  font-family: 'Sevillana';
+  
+  src: url(../fonts/Sevillana-Regular.ttf);
+  font-size: 250px;
+}
+ 
+h1{
+  font-family:fantasy;
+}
+p{
+  font-family: 'Long Cang', cursive;
+}
